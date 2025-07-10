@@ -1,0 +1,11 @@
+bb_upper_break,vol_ma_break,vol_gt_ma5,vol_gt_ma20,count,avg_pct_change_next_close
+True,True,False,False,73,0.33
+True,True,True,True,695,0.27
+True,False,True,True,115,0.23
+False,True,False,True,1949,0.11
+False,False,False,False,10899,0.05
+False,True,True,True,3438,0.02
+False,False,True,False,3695,0.02
+False,True,False,False,4339,0.02
+False,False,True,True,2425,-0.03
+True,True,False,True,131,-0.11
